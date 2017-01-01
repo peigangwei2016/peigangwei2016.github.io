@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>http://peigangwei.com/2017/01/02/Ubuntu16-4%E9%87%8D%E7%BD%AE%E5%AF%86%E7%A0%81-%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81/</loc>
+    <lastmod>2017-01-01T23:52:41.974Z</lastmod>
+    <data>
+        <display>
+        <title>Ubuntu16.4重置密码(忘记密码)</title>
+        <pubTime>2017-01-01T22:08:22.000Z</pubTime>
+        
+        <tag>Ubuntu</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="http://peigangwei.com/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://peigangwei.com/2016/11/22/%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2017-01-01T21:56:48.081Z</lastmod>
+    <lastmod>2017-01-01T22:03:08.657Z</lastmod>
     <data>
         <display>
         <title>Windows快捷键设置工具</title>
@@ -13,11 +33,28 @@
         
         <tag>快捷键</tag>
          
+        <tag>工具</tag>
+         
          
            
              
               <breadCrumb title="工具" url="http://peigangwei.com/categories/tools/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://peigangwei.com/2016/12/18/android/</loc>
+    <lastmod>2016-12-18T00:48:03.102Z</lastmod>
+    <data>
+        <display>
+        <title>android</title>
+        <pubTime>2016-12-18T00:47:40.000Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
@@ -35,7 +72,7 @@
          
            
              
-              <breadCrumb title="励志" url="http://peigangwei.com/categories/%E5%8A%B1%E5%BF%97/"/>
+              <breadCrumb title="励志" url="http://peigangwei.com/categories/lizhi/"/>
           
         </display>
     </data>
@@ -181,7 +218,7 @@
          
            
              
-              <breadCrumb title="励志" url="http://peigangwei.com/categories/%E5%8A%B1%E5%BF%97/"/>
+              <breadCrumb title="励志" url="http://peigangwei.com/categories/lizhi/"/>
           
         </display>
     </data>
